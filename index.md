@@ -1,6 +1,5 @@
 ## Members
 
-* [Eric Jespers](https://ericjespers.github.io) (Emeritus).
 * [Leandro Vendramin](https://leandrovendramin.org/).
 
 ### Francqui VUB-Leerstoel
