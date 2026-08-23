@@ -4,6 +4,7 @@
 
 * Nicolás Andruskiewitsch (Córdoba, Argentina), 30/9-7/10.
 * Juan Cuadra (Almería, Spain), 7/9-12/9.
+* Manoj Yadav (Allahabad, India), 1/9-30/10. Supported by IMU (India/Kumar/2026/SRF). 
 * Rosa Cascella (Naples, Italy), 1/9-23/12. 
 * Sebastian Halbig (Marburg, Germany), 1/6-3/6.
 * Manoj Yadav (Allahabad, India), 1/6-30/7. Supported by FWO V503126N.
