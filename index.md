@@ -1,22 +1,13 @@
 ## Members
 
-* [Eric Jespers](https://ericjespers.github.io) (Emeritus).
 * [Leandro Vendramin](https://leandrovendramin.org/).
-
-### Francqui VUB-Leerstoel
-* [Istvan Heckenberger](https://www.uni-marburg.de/en/staff-info?dn=kqb1nhxgnl). His course on _Nichols algebras and root systems_ 
-is [here](https://leandrovendramin.org/heckenberger/).
-
-### VUB-Leerstoel
-* [Nicolás Andruskiewitsch](https://www.famaf.unc.edu.ar/~andrus/). His course on _Hopf algebras over simple groups_ is [here](https://leandrovendramin.org/andruskiewitsch/). 
 
 ### Postdocs
 
-* Meijun Liu. 
+* Nadja Egner.
+* Wang You. 
 * [Magdalena Wiertel](https://mimuw.edu.pl/~mwiertel/).
-* [Andrew Darlington](https://sites.google.com/view/andrewdarlington/home?authuser=0). 
 * [Carsten Dietzel](https://sites.google.com/view/carstendietzel/startseite?pli=1).
-* [Kevin Piterman](http://mate.dm.uba.ar/~kpiterman/).
 
 ### Ph.D. students
 
@@ -32,23 +23,10 @@ is [here](https://leandrovendramin.org/heckenberger/).
 
 Click [here](former.md). 
 
-## Publications
-
-Click [here](publications.md) for the list of publications.
-
 ## Seminar 
 
 The webpage of our algebra seminar is [here](seminar.md). We also have a [Magma](https://leandrovendramin.org/team/workshop.html) seminar. 
 
-## Conferences organized 
-
-Click [here](conferences.md) for the list of conferences organized by our group. 
-
-## Grants 
-
-Click [here](grants.md) to see our grants. 
-
- 
 ## Visitors
 
 Click [here](visitors.md) for a detailed list of long and short-term visitors. 
